@@ -1,0 +1,21 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+.ipynb_checkpoints/
+mappings/
+checkpoints/
+logs/
+heptrkx-ctd/
+__pycache__/
+checkpoint*
+reconstructed_test_events/
+clustering/
+dbscan_sub/
+trackml-preprocess.ipynb
+training-sample-mappings.json
+submission.csv
+submission-hbdscan.csv
+submission-hbdscan-extended.csv
+sample_submission.csv
+extended-submission.csv
+dbscan_sub/
+particle-mappings.json
