@@ -9,7 +9,7 @@ __pycache__/
 checkpoint*
 reconstructed_test_events/
 clustering/
-dbscan_sub/
+dbscan/
 trackml-preprocess.ipynb
 training-sample-mappings.json
 submission.csv
